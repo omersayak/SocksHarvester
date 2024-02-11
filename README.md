@@ -22,7 +22,7 @@ Install the required libraries using:
 
 Usage
 
-    python socksharvester.py -i your_proxy_list.txt -o valid_proxies.txt 
+    python socksHarvester.py -i your_proxy_list.txt -o valid_proxies.txt 
 
 
 Parameters:
