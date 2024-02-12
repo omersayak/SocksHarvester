@@ -17,6 +17,8 @@ Ensure you have Python 3.6+ installed on your system.
 Install the required libraries using:
 
 
+    git clone https://github.com/omersayak/SocksHarvester.git
+    cd SocksHarvester
     pip install -r requirements.txt
 
 
